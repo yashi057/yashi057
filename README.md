@@ -4,9 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer;NLP+%7C+LLMs;Building+AI+Projects;Future+AI+Engineer&center=true&width=500&height=45">
 </p>
-<p align="center">
-🧠 AI/ML Enthusiast • NLP • LLMs  
-🚀 Building real-world AI systems
+
+<h2 align="center">🧠 AI/ML Enthusiast • NLP • LLMs</h2>
+<h2 align="center">🚀 Building real-world AI systems</h2>
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -39,5 +39,5 @@
 ## 📫 Connect
 
 * LinkedIn: https://www.linkedin.com/in/yashika-soni-a76733293
-  </p>
+  
 -------------------------------------------------------------------------------------------------------------------------
