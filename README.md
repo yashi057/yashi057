@@ -4,9 +4,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer;NLP+%7C+LLMs;Building+AI+Projects;Future+AI+Engineer&center=true&width=500&height=45">
 </p>
-
-<h3 align="center">🧠 AI/ML Enthusiast • NLP • LLMs</h3>
-<h3 align="center">🚀 Building real-world AI systems</h3>
+<p align="center">
+🧠 AI/ML Enthusiast • NLP • LLMs
+🚀 Building real-world AI systems
+</p>
 
 
 ## 🔥 About Me
@@ -16,12 +17,14 @@
 * ⚡ Exploring real-world datasets
 
 
+
 ## 🧰 Tech Stack
 
 * Python, NumPy, Pandas
 * Machine Learning, NLP
 * PyTorch, Scikit-learn
 * Git & GitHub
+
 
 
 ## 📊 GitHub Stats
