@@ -5,10 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer;NLP+%7C+LLMs;Building+AI+Projects;Future+AI+Engineer&center=true&width=500&height=45">
 </p>
 
-<h2 align="center">🧠 AI/ML Enthusiast • NLP • LLMs</h2>
-<h2 align="center">🚀 Building real-world AI systems</h2>
+<h3 align="center">🧠 AI/ML Enthusiast • NLP • LLMs</h3>
+<h3 align="center">🚀 Building real-world AI systems</h3>
 
---------------------------------------------------------------------------------------------------------------------
 
 ## 🔥 About Me
 
@@ -16,7 +15,6 @@
 * 💡 Interested in building AI applications
 * ⚡ Exploring real-world datasets
 
-----------------------------------------------------------------------------------------------------------------------
 
 ## 🧰 Tech Stack
 
@@ -25,7 +23,6 @@
 * PyTorch, Scikit-learn
 * Git & GitHub
 
-------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 
@@ -34,10 +31,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashi057&theme=tokyonight&hide_border=true"/>
 </p>
 
--------------------------------------------------------------------------------------------------------------------------
+
 
 ## 📫 Connect
 
 * LinkedIn: https://www.linkedin.com/in/yashika-soni-a76733293
   
--------------------------------------------------------------------------------------------------------------------------
