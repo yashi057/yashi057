@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E6D3&height=200&section=header&text=Yashika%20Soni&fontSize=40&fontColor=000000"/>
+</p>
 
 <h1 align="center">Yashika Soni</h1>
 
@@ -11,18 +14,16 @@
   <img src="https://komarev.com/ghpvc/?username=yashi057&label=Profile%20views&color=blue&style=flat" />
 </p>
 
----
+
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🌱 Currently learning **NLP & Large Language Models**
 * 💡 Passionate about building real-world AI systems
 * ⚡ Exploring **Deep Learning & Deployment**
 * 🎯 Goal: Become a skilled **AI Engineer**
 
----
 
 ## 🧰 Tech Stack
 
@@ -30,7 +31,6 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,vscode" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -39,7 +39,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashi057&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 ## 🧠 Currently Learning
 
@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/DeepLearning-red?style=for-the-badge"/>
 </p>
 
----
 
 ## 🔥 Projects
 
@@ -57,7 +56,7 @@
   🚧 Coming Soon... (Building something cool 👀)
 </p>
 
----
+
 
 ## 📫 Connect With Me
 
