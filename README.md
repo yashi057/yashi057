@@ -9,8 +9,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashika-soni-a76733293)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashikasoni)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashikasoni@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
+(https://github.com/yashi057)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yashikasoni&label=Profile+Views&color=6C63FF&style=flat)
 
@@ -30,8 +30,7 @@ class YashikaSoni:
         self.role       = "AI/ML Engineer | Continuous Learner"
         self.focus      = ["NLP", "LLMs", "Data-Driven Solutions"]
         self.currently  = "Learning RAG Pipelines & Fine-tuning LLMs"
-        self.open_to    = "On-site / Hybrid roles in Jaipur"
-
+        
     def say_hi(self):
         print("Let's build real-world AI together 🚀")
 ```
@@ -85,17 +84,6 @@ class YashikaSoni:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Duration | Grade |
-|--------|------------|----------|-------|
-| BCA — Information Technology | Biyani Girls College, Jaipur | Jul 2023 – Jul 2026 | Pursuing |
-| Class XII — Commerce | Emmanuel Mission Sr. Sec. School | Apr 2015 – May 2023 | 80% |
-
-> 🎵 Active member of **Techno and Music Club** @ Biyani Girls College
 
 ---
 
