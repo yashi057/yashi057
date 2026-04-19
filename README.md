@@ -1,18 +1,17 @@
 <div align="center">
 
-<!-- Original style banner - warm tan/dark wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B7D6B&height=200&section=header&text=Yashika%20Soni&fontSize=58&fontAlignY=38&fontColor=1a1a1a&desc=AI%2FML%20Engineer%20%7C%20BCA%20%40%20Biyani%20Girls%20College%2C%20Jaipur&descAlignY=58&descSize=16&descFontColor=2a2a2a"/>
+<!-- Banner - no college desc, smaller font size for name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B7D6B&height=200&section=header&text=Yashika%20Soni&fontSize=44&fontAlignY=45&fontColor=1a1a1a"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%F0%9F%A4%96+%7C+Building+Data-Driven+Solutions;IBM+Certified+in+AI+%26+Advanced+IT+Skills+%F0%9F%8F%86;HackX+3.0+International+Hackathon+%7C+36+Hours+%F0%9F%94%A5;Continuous+Learner+%7C+NLP+%7C+LLMs+%7C+Python)](https://git.io/typing-svg)
+<!-- Typing SVG - lighter soft color -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A8C5DA&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%F0%9F%A4%96+%7C+Building+Data-Driven+Solutions;IBM+Certified+in+AI+%26+Advanced+IT+Skills+%F0%9F%8F%86;HackX+3.0+International+Hackathon+%7C+36+Hours+%F0%9F%94%A5;Continuous+Learner+%7C+NLP+%7C+LLMs+%7C+Python)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashika-soni-a76733293)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
-(https://github.com/yashi057)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashi057)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yashikasoni&label=Profile+Views&color=6C63FF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=yashi057&label=Profile+Views&color=6C63FF&style=flat)
 
 </div>
 
@@ -30,7 +29,7 @@ class YashikaSoni:
         self.role       = "AI/ML Engineer | Continuous Learner"
         self.focus      = ["NLP", "LLMs", "Data-Driven Solutions"]
         self.currently  = "Learning RAG Pipelines & Fine-tuning LLMs"
-        
+
     def say_hi(self):
         print("Let's build real-world AI together 🚀")
 ```
@@ -45,7 +44,7 @@ class YashikaSoni:
 | ⚡ | Completed **MUJ HackX 3.0** — 36-hour International Hackathon @ Manipal University Jaipur *(Nov 2025)* |
 | 🤖 | Built an **AI-powered chatbot** for college website using Python & Rasa *(Oct 2025)* |
 | 🎓 | Completed **Data Science Workshop** — Ducat India *(Nov 2025)* |
-| 🛠️ | Completed **AI Training Program** — Biyani Group of Colleges *(Nov 2024)* |
+| 🛠️ | Completed **AI Training Program** — *(Nov 2024)* |
 | 🌐 | Attended **Google GDG DevFest Jaipur** |
 | 💼 | **Software Developer Intern** @ Acmegrade, Bengaluru — ML with Python *(Dec 2023 – Feb 2024)* |
 
@@ -112,14 +111,14 @@ class YashikaSoni:
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yashikasoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashikasoni&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yashi057&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashi057&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yashikasoni&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yashi057&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
