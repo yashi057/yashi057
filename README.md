@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner - no college desc, smaller font size for name -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B7D6B&height=200&section=header&text=Yashika%20Soni&fontSize=44&fontAlignY=45&fontColor=1a1a1a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D4C5B0&height=200&section=header&text=Yashika%20Soni&fontSize=44&fontAlignY=45&fontColor=1a1a1a"/>
 
 <!-- Typing SVG - lighter soft color -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A8C5DA&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%F0%9F%A4%96+%7C+Building+Data-Driven+Solutions;IBM+Certified+in+AI+%26+Advanced+IT+Skills+%F0%9F%8F%86;HackX+3.0+International+Hackathon+%7C+36+Hours+%F0%9F%94%A5;Continuous+Learner+%7C+NLP+%7C+LLMs+%7C+Python)](https://git.io/typing-svg)
