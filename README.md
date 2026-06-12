@@ -1,18 +1,21 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=8B7D6B&height=200&section=header&text=Yashika%20Soni&fontSize=44&fontAlignY=45&fontColor=1a1a1a&desc=AI%20%2F%20ML%20Engineer%20%7C%20NLP%20%7C%20LLMs%20%7C%20Data-Driven%20Solutions&descSize=16&descAlignY=68&descColor=3a3a3a&animation=fadeIn)](https://github.com/yashi057)
+<!-- Banner - no college desc, smaller font size for name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D4C5B0&height=200&section=header&text=Yashika%20Soni&fontSize=44&fontAlignY=45&fontColor=1a1a1a"/>
 
+<!-- Typing SVG - lighter soft color -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A8C5DA&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%F0%9F%A4%96+%7C+Building+Data-Driven+Solutions;IBM+Certified+in+AI+%26+Advanced+IT+Skills+%F0%9F%8F%86;HackX+3.0+International+Hackathon+%7C+36+Hours+%F0%9F%94%A5;Continuous+Learner+%7C+NLP+%7C+LLMs+%7C+Python)](https://git.io/typing-svg)
 
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashika-soni-a76733293)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashi057)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashikasoni057@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashi057&label=Profile+Views&color=6C63FF&style=flat)
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yashi057&label=Profile+Views&color=6C63FF&style=flat-square)](https://github.com/yashi057)
-[![GitHub Followers](https://img.shields.io/github/followers/yashi057?label=Followers&style=flat-square&color=7C3AED)](https://github.com/yashi057?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/yashi057?label=Total%20Stars&style=flat-square&color=A8C5DA)](https://github.com/yashi057)
 
 </div>
