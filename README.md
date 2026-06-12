@@ -4,13 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A8C5DA&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%F0%9F%A4%96+%7C+Building+Data-Driven+Solutions;IBM+Certified+in+AI+%26+Advanced+IT+Skills+%F0%9F%8F%86;HackX+3.0+International+Hackathon+%7C+36+Hours+%F0%9F%94%A5;Continuous+Learner+%7C+NLP+%7C+LLMs+%7C+Python)](https://git.io/typing-svg)
 
-<br/>
-
-![BCA](https://img.shields.io/badge/BCA%20(IT)-Biyani%20Girls%20College%202023--26-6C63FF?style=flat-square&logo=graduation-cap&logoColor=white)
-![IBM Certified](https://img.shields.io/badge/IBM%20Certified-AI%20%26%20Advanced%20IT%20Skills-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![Location](https://img.shields.io/badge/📍-Jaipur%2C%20Rajasthan%2C%20India-7C3AED?style=flat-square)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashika-soni-a76733293)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashi057)
@@ -24,7 +17,6 @@
 
 </div>
 
----
 
 ## 🧠 About Me
 
@@ -43,7 +35,6 @@ class YashikaSoni:
         print("Let's build real-world AI together 🚀")
 ```
 
----
 
 ## 🚀 Featured Projects
 
@@ -87,7 +78,7 @@ The system is structured around a three-layer architecture: input parsers handle
 
 </details>
 
----
+
 
 ## 🏆 Achievements
 
@@ -105,7 +96,7 @@ The system is structured around a three-layer architecture: input parsers handle
 
 </div>
 
----
+
 
 ## 📜 Certifications
 
@@ -121,7 +112,7 @@ The system is structured around a three-layer architecture: input parsers handle
 
 </div>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -159,7 +150,6 @@ The system is structured around a three-layer architecture: input parsers handle
 
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -176,7 +166,7 @@ The system is structured around a three-layer architecture: input parsers handle
 
 </div>
 
----
+
 
 ## 🏅 GitHub Trophies
 
@@ -186,7 +176,7 @@ The system is structured around a three-layer architecture: input parsers handle
 
 </div>
 
----
+
 
 ## 📈 Contribution Activity
 
@@ -196,7 +186,7 @@ The system is structured around a three-layer architecture: input parsers handle
 
 </div>
 
----
+
 
 ## 🐍 Contribution Snake
 
@@ -206,7 +196,7 @@ The system is structured around a three-layer architecture: input parsers handle
 
 </div>
 
----
+
 
 ## 🎯 Current Focus
 
@@ -236,7 +226,6 @@ current_focus:
     - Entry-level AI/ML engineering roles
 ```
 
----
 
 ## 🌐 Connect
 
@@ -250,7 +239,7 @@ Working on something in **AI/ML, NLP, or LLMs**? Always open to collaborate.
 
 </div>
 
----
+
 
 <div align="center">
 
