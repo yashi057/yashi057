@@ -19,6 +19,7 @@
 
 ```python
 class YashikaSoni:
+
     def __init__(self):
         self.name       = "Yashika Soni"
         self.pronouns   = "She/Her"
@@ -188,7 +189,6 @@ The system is structured around a three-layer architecture: input parsers handle
 ## 🎯 Current Focus
 
 ```yaml
-current_focus:
   learning:
     - RAG Pipelines & Retrieval-Augmented Generation
     - Fine-tuning LLMs with LoRA / QLoRA
