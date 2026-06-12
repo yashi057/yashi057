@@ -169,8 +169,7 @@ The system is structured around a three-layer architecture: input parsers handle
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=yashi057&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=yashi057&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 
