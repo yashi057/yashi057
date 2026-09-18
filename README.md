@@ -70,7 +70,7 @@ An intelligent timetable generation system that automatically allocates classes,
 | **Scale**       | Multi-role system (Admin / Faculty / Student) · Multi-section / multi-batch / multi-semester support             |
 | **Performance** | Constraint-aware scheduling engine · Hard vs soft constraint separation · Room/resource matching                 |
 | **Impact**      | Eliminates manual scheduling conflicts · Pluggable solvers (ILP / Heuristic / Evolutionary)                      |
-| **Repository**  | [![View Repo](https://img.shields.io/badge/yashi057%2FAI--timetable--generater-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashi057/AI-timetable-generater) |
+| **Repository**  | [![View Repo](https://img.shields.io/badge/yashi057%2FAI--timetable--generater-181717?style=flat-square&logo=github&logoColor=white)|
 
 ## 🧩 Other Notable Projects
 
