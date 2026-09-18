@@ -56,7 +56,7 @@ A rover system concept for detecting subsurface lunar ice, built for Bharatiya A
 | **Team**        | Team Lead, "Innovis"                                                                                         |
 | **Origin**      | Adapted from an earlier AstroNav Mars-drone RL environment                                                       |
 | **Deliverables**| Full submission deck, GitHub documentation, and system architecture diagrams                                    |
-| **Repository**  | [[![View Repo](https://img.shields.io/badge/yashi057%2FInnovis -181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashi057/INNOVENTORS)|
+| **Repository**  | [[![View Repo](https://img.shields.io/badge/yashi057%2FInnovis -181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashi057/INNOVENTORS)]]
 
 
 **📅 AI Timetable Generator — Constraint-Aware Academic Scheduling System**
