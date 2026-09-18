@@ -45,17 +45,19 @@ Originally a tkinter desktop assistant, now rebuilt and deployed as a full-stack
 
 Migrating from a Python desktop app to a deployed web app meant swapping pyttsx3/SpeechRecognition for the browser's own Web Speech API and re-architecting the UI as HTML/CSS/JS instead of tkinter — while keeping the same Claude-powered conversation core.
 
+
 **🌕 Lunar Subsurface Ice Detection Rover — BAH 2026 (ISRO / Hack2Skill)**
 
-A rover system concept for detecting subsurface lunar ice, built for Problem Statement 08 of the Bharatiya Antariksh Hackathon 2026. Adapted from an earlier GPS-denied Mars drone reinforcement-learning environment into a lunar ice-detection context.
+A rover system concept for detecting subsurface lunar ice, built for Bharatiya Antariksh Hackathon 2026. Adapted from an earlier GPS-denied Mars drone reinforcement-learning environment into a lunar ice-detection context.
 
 | Attribute       | Details                                                                                                       |
 | --------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Event**       | Bharatiya Antariksh Hackathon 2026 (BAH 2026), organized with ISRO via Hack2Skill                                |
-| **Team**        | Team Lead, "Innoventors"                                                                                         |
+| **Team**        | Team Lead, "Innovis"                                                                                         |
 | **Origin**      | Adapted from an earlier AstroNav Mars-drone RL environment                                                       |
 | **Deliverables**| Full submission deck, GitHub documentation, and system architecture diagrams                                    |
-| **Repository**  | [![View Repo](https://img.shields.io/badge/yashi057%2FINNOVENTORS-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashi057/INNOVENTORS) 
+| **Repository**  | [[![View Repo](https://img.shields.io/badge/yashi057%2FInnovis -181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashi057/INNOVENTORS) 
+](https://github.com/yashi057/lunar-ice-mission)
 
 
 **📅 AI Timetable Generator — Constraint-Aware Academic Scheduling System**
